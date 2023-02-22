@@ -2,6 +2,7 @@
 I'm a first year Software Engineering student @ RIT
 
 🧑‍💻 I'm always interested in creating new projects
+<br></br>
 😁 Pronouns: He/Him
 
 <!--
