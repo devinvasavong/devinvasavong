@@ -1,20 +1,8 @@
-### Hi there, I'm Devin! 👋
-I'm a first year Software Engineering student @ RIT
-
-- 🧑‍💻 I'm always interested in creating new projects
-- 😁 Pronouns: He/Him
-
-<!--
-**devinvasavong/devinvasavong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const github = {
+  name: {
+    first: "Devin",
+    last: "Vasavong",
+  },
+  pronouns: ["He", "Him"],
+  languages: ["Javascript", "Python", "HTML", "CSS"]
+}
