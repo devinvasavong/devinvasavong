@@ -1,4 +1,4 @@
-```
+```js
 const github = {
   name: {
     first: "Devin",
