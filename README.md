@@ -6,7 +6,7 @@ const github = {
     last: "Vasavong",
   },
   pronouns: ["He", "Him"],
-  languages: ["Javascript", "Python", "HTML", "CSS"],
+  languages: ["Javascript", "Python", "HTML", "CSS", "C++"],
   links: ["https://vasavong.dev"]
 }
 ```
