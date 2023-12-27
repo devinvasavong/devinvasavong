@@ -14,6 +14,7 @@ const github = {
       "organization": "Rochester Institute of Technology",
       "duration": ""
     }
-  ]
+  ],
+  projects: [],
 }
 ```
