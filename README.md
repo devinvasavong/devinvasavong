@@ -15,6 +15,15 @@ const github = {
       "duration": ""
     }
   ],
-  projects: [],
+  projects: [
+    {
+      "name": "ShiftList",
+      "description": "Workplace management software for small businesses"
+    },
+    {
+      "name": "SmallKDS by Vasavong",
+      "description": "Kitchen Display Systems for small businesses."
+    }
+  ],
 }
 ```
